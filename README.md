@@ -44,15 +44,6 @@ Built using modern web technologies, this clone offers a clean user interface, i
 
 > Add screenshots of different sections like homepage, games, article layout, and footer.
 
-```
-📁 /images/
-├── homepage.png
-├── news-section.png
-├── games.png
-├── footer.png
-```
-
-```markdown
 ![Homepage](images/news.png)  
 *Clean and bold homepage layout with headlines*
 
@@ -61,7 +52,7 @@ Built using modern web technologies, this clone offers a clean user interface, i
 
 ![Footer](images/footer.png)  
 *Full-featured footer with quick links and navigation*
-```
+
 
 ---
 
