@@ -47,7 +47,7 @@ Built using modern web technologies, this clone offers a clean user interface, i
 ![Homepage](images/news.png)  
 *Clean and bold homepage layout with headlines*
 
-![Word Games Section](images/game.png)  
+![Word Games Section](images/games.png)  
 *Interactive puzzle games directly on the site*
 
 ![Footer](images/footer.png)  
